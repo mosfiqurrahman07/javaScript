@@ -1,7 +1,13 @@
-var biscuitePrice = 8;
-if(biscuitePrice == 8){
-    console.log("I will eat the biscuite");
+var jobPaiso = false;
+var savingsAmount = 500;
+
+
+if(jobPaiso == true && savingsAmount > 200000){
+    console.log("Aso tomer patri khuji");
+}
+else if (jobPaiso == true){
+    console.log("accha koydin por dekhbo")
 }
 else{
-    console.log("Khali cha is better");
+    console.log("Tor kopale biya nai");
 }

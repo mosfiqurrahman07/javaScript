@@ -43,7 +43,3 @@ var bestChinaMobile =false;
 console.log(typeof bestMobile);
 
 
-var isHot = true;
-var isRich = true;
-console.log(isHot);
-
